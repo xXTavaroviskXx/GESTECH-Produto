@@ -21,10 +21,10 @@ Neste semestre estamos trabalhando como uma consultoria para uma empresa do ramo
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 12/06/2024 | concluido| [SEM RELATÓRIO] | 
-|01 | 14/04/2024 | Concluido| [Ver Relatório](https://youtu.be/EpmCNdbbi4A) | 
-|02|  05/05/2024| Concluido |[Ver Relatório](https://youtu.be/JgZMVH1_BYg) | 
-|03| 26/05/2024 | Concluido|[Ver Relatório](https://youtu.be/2pe3XZPupM0) | 
-|04| 16/06/2024 | Concluido |[Ver Relatório](https://youtu.be/xu8rhoBnntw) |
+|01 | 14/04/2024 | Concluido| [Ver Relatório](https://youtu.be/c4nLLpVP4Qc) | 
+|02|  05/05/2024| Concluido |[Ver Relatório]() | 
+|03| 26/05/2024 | Concluido|[Ver Relatório]() | 
+|04| 16/06/2024 | Concluido |[Ver Relatório]() |
 |Feira de Soluções|27/06/2024 | Ainda vai acontecer |[Ver Relatório]() | 
 
 > Possíveis status: a fazer, em progresso e concluido
@@ -36,9 +36,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Equipe
 
-![image](https://github.com/xXTavaroviskXx/GESTECH/assets/168144175/2047e622-4ffe-48f2-9235-dff7f5427ea3)
-
-
+![Gestech](https://github.com/user-attachments/assets/b5b553a9-0371-46c4-b768-b05652ebaee3)
 
 
 ># Objetivo do Projeto
@@ -49,7 +47,10 @@ Temos como objetivo melhorar a gestão da Doce Sabor utilizando da nossa aprendi
 
 ## Sprint 1
 
-[![SPRINT 1](https://img.youtube.com/vi/EpmCNdbbi4A/0.jpg)](https://youtu.be/EpmCNdbbi4A)
+![image](https://github.com/user-attachments/assets/36246b61-daca-477e-9d53-72439bc37329)
+
+https://youtu.be/c4nLLpVP4Qc
+
 
 ## Sprint 2
 
